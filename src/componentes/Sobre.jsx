@@ -35,7 +35,7 @@ function Sobre() {
       Lorem ipsum dolor sit amet consectetur, adipisicing elit. Facere alias ab minus voluptate vero debitis corrupti minima quisquam nobis, ipsum dignissimos asperiores id ad temporibus libero quos impedit! Eius, fuga.
       Lorem ipsum dolor sit, amet consectetur adipisicing elit. Soluta quasi, molestiae quae sit quia vel nostrum ea dolore. In est fugit odit perferendis laboriosam libero ad! Fuga delectus et sed.
       Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nesciunt sit dolores rem quo quia molestiae ab neque laborum eligendi mollitia deserunt sequi assumenda, itaque ex officiis. Totam quis consectetur magni.
-
+      Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nesciunt sit dolores rem quo quia molestiae ab neque laborum eligendi mollitia deserunt sequi assumenda, itaque ex officiis. Totam quis consectetur magni.
     </p>
     </>
   )
