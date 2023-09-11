@@ -5,7 +5,7 @@ function Footer() {
   return (
     <>
       <p>Telefone: (11)98784-1298</p>
-      <p>Email: </p>
+      <p>Email: TechForAll@gmail.com</p>
     </>
   )
 }
